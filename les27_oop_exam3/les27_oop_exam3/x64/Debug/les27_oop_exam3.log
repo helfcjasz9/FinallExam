@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\cpp\les27_oop_exam3\les27_oop_exam3\Source.cpp(23,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  les27_oop_exam3.vcxproj -> F:\cpp\les27_oop_exam3\x64\Debug\les27_oop_exam3.exe

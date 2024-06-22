@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\cpp\les27_oop_exam2\les27_oop_exam2\Source.cpp(54,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+F:\cpp\les27_oop_exam2\les27_oop_exam2\Source.cpp(56,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  les27_oop_exam2.vcxproj -> F:\cpp\les27_oop_exam2\x64\Debug\les27_oop_exam2.exe

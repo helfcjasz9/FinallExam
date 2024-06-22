@@ -1,0 +1,9 @@
+﻿  Source.cpp
+F:\cpp\les27_oop_exam4\les27_oop_exam4\Source.cpp(21,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\cpp\les27_oop_exam4\les27_oop_exam4\Source.cpp(21,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\cpp\les27_oop_exam4\les27_oop_exam4\Source.cpp(21,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\cpp\les27_oop_exam4\les27_oop_exam4\Source.cpp(25,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\cpp\les27_oop_exam4\les27_oop_exam4\Source.cpp(25,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\cpp\les27_oop_exam4\les27_oop_exam4\Source.cpp(25,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\cpp\les27_oop_exam4\les27_oop_exam4\Source.cpp(56,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  les27_oop_exam4.vcxproj -> F:\cpp\les27_oop_exam4\x64\Debug\les27_oop_exam4.exe
